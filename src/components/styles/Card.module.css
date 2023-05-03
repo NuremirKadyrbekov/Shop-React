@@ -1,0 +1,38 @@
+.Card{
+    width: 300px;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    
+}
+img{
+    width: 120px;
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 23px;
+    color: rgb(117, 109, 236);
+}
+.span{
+   display: flex;
+ text-align: center;  
+ color: rgb(128, 128, 128);
+}
+
+.spanDiv{
+    width: 100px;
+    margin-left: 30px;
+}
+p{
+    text-align: center;
+    color: green;
+    font-size: 20px;
+
+}
+.Main{
+    width: 100%;
+    display: flex;
+}
