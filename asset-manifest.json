@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.0d7bd58f.css",
+    "main.js": "/react-gh-pages/static/js/main.d59d4000.js",
+    "static/media/Asus.png": "/react-gh-pages/static/media/Asus.141ef77d583f0a682b38.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.0d7bd58f.css.map": "/react-gh-pages/static/css/main.0d7bd58f.css.map",
+    "main.d59d4000.js.map": "/react-gh-pages/static/js/main.d59d4000.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7bd58f.css",
+    "static/js/main.d59d4000.js"
+  ]
+}
